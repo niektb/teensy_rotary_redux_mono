@@ -1,0 +1,6 @@
+0 ICSigma100In1 O_C0_A0_P1_out Link4 O_C0_A0_P9_out Link1
+1 Gain1940AlgNS1 I_C86_A0_P1_in Link1 O_C86_A0_P2_out Link2
+2 Gain1940AlgNS3 I_C83_A0_P1_in Link4 O_C83_A0_P2_out Link0
+3 TwoChanXMixer1940Alg1 I_C99_A0_P1_in Link4 I_C99_A0_P2_in Link2 O_C99_A0_P3_out Link3
+4 ICSigma100Out2 I_C42_A0_P1_in Link0
+5 ICSigma100Out1 I_C11_A0_P1_in Link3
